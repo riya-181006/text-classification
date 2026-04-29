@@ -18,4 +18,4 @@ This project focuses on text classification using TensorFlow/Keras. It processes
 The model is trained on labeled text data. After preprocessing, it learns patterns and predicts categories for new input text.
 
 ## Project File
-- Text_Classification_Procheta_Ray.ipynb
+- Text_Classification_SIR.ipynb
