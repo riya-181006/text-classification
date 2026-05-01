@@ -23,3 +23,6 @@ The model is trained on labeled text data. After preprocessing, it learns patter
 
 ## Project File
 - Text_Classification_SIR.ipynb
+
+## Author
+Procheta Ray
